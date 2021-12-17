@@ -1,6 +1,6 @@
-﻿The font file in this archive was created using Fontstruct the free, online
+The font file in this archive was created using Fontstruct the free, online
 font-building tool.
-This font was created by **Swedish Type Corporation**.
+This font was created by Swedish Type Corporation.
 This font has a homepage where this archive and other versions may be found:
 https://fontstruct.com/fontstructions/show/2044780
 
