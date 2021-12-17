@@ -1,2 +1,2 @@
 # STCFontPack
-Keep it STC.
+STC is a **Fontstruct Typeface designer** from Stockholm, Sweden.
