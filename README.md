@@ -1,2 +1,2 @@
 # STCFontPack
-STC is a **Fontstruct Typeface designer** from Stockholm, Sweden. If you have any Questions, concerns, answers, Please **discuss** here.
+STC is a **Fontstruct Typeface designer** from Stockholm, Sweden. If you having any Questions, concerns, answers, Please **discuss** here to talk about it.
